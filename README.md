@@ -6,6 +6,12 @@ Este patrón utiliza el método **isSatisfiedBy**, el cual se puede emplear para
 
 Gracias a estos operadores, es posible componer especificaciones complejas y anidadas, lo que facilita la reutilización y combinación de reglas de forma mucho mas flexible.
 
+## Ejemplo
+
+El código proporcionado solo se implementó el método **isSatisfiedBy** y el operador lógico **AND**. 
+
+A continuación, vemos su uso.
+
 
 
 
