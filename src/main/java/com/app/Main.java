@@ -1,8 +1,12 @@
 package com.app;
 
+import com.app.model.Person;
+import com.app.model.TYPE_DOCUMENT;
+import com.app.specification.Specification;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hi!!!.");
+        Person person  = new Person("Nombre", 7, TYPE_DOCUMENT.CC, "12345678");
     }
 }
